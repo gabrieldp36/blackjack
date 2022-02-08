@@ -23,5 +23,5 @@ npm run build
 ```
 
 ```
-Pueden visistar a la haciendo click en este link: https://gabrieldp36.github.io/blackjack/
+Pueden visistar la App haciendo click en este link: https://gabrieldp36.github.io/blackjack/
 ```
